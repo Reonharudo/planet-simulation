@@ -1,7 +1,7 @@
-Die Angabe für die 1. Aufgabe finden Sie in
+# Instructions for the 1st Task can be found in
 
 * angabe/Aufgabenblatt1.md
 
-die zugehörigen .java-Dateien in src
+The associated .java files are in src
 
-Entsprechend für die weiteren Aufgaben.
+Similarly for the subsequent tasks.
